@@ -14,3 +14,11 @@
 
 - Pandas
     - Introdução ao Pandas: Leitura de arquivos com Pandas
+    - Manipulação de dados com Pandas
+
+## 02 Técnicas de Programação II
+   - Introdução, Gráficos com Pandas
+   - Matplotlib
+   - Seaborn
+   - Plotly
+   - Streamlit
